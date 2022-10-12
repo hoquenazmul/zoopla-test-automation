@@ -1,0 +1,832 @@
+2021-10-09 15:29:39,729 - Zoopla.uk -INFO - ******** I am a chrome browser*********
+2021-10-09 15:31:14,187 - Zoopla -INFO - ******** I am a chrome browser*********
+2021-10-09 15:31:59,479 - Zoopla -INFO - ******** I am a chrome browser*********
+2021-10-09 15:33:44,551 - Zoopla -INFO - ******** I am a chrome browser*********
+2021-10-09 15:33:47,479 - Zoopla -INFO - ******** User able to enter URL *********
+2021-10-09 15:33:50,096 - Zoopla -INFO - ******** User able to click on the login button *********
+2021-10-09 15:33:55,078 - Zoopla -INFO - ******** User enter the userName *********
+2021-10-09 15:33:55,393 - Zoopla -INFO - ******** User enter the Password *********
+2021-10-09 15:33:55,672 - Zoopla -INFO - ******** User click on the signing button *********
+2021-10-09 15:33:56,140 - Zoopla -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 15:51:30,050 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 15:58:52,657 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 16:01:35,841 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 16:02:36,774 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 16:04:01,594 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 16:05:50,761 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 16:17:00,327 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 16:17:15,739 - Test Lead Alam -INFO - 
+2021-10-09 16:17:15,740 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 16:17:15,741 - Test Lead Alam -INFO - 
+2021-10-09 16:17:19,085 - Test Lead Alam -INFO - 
+2021-10-09 16:17:19,085 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-10-09 16:17:19,086 - Test Lead Alam -INFO - 
+2021-10-09 16:19:45,466 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 16:19:53,644 - Test Lead Alam -INFO - 
+2021-10-09 16:19:53,645 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-10-09 16:19:53,646 - Test Lead Alam -INFO - 
+2021-10-09 16:20:24,345 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 16:20:31,963 - Test Lead Alam -INFO - 
+2021-10-09 16:20:31,964 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-10-09 16:20:31,964 - Test Lead Alam -INFO - 
+2021-10-09 16:32:49,908 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 16:32:55,638 - Test Lead Alam -INFO - 
+2021-10-09 16:32:55,638 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 16:32:55,639 - Test Lead Alam -INFO - 
+2021-10-09 16:32:59,529 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 16:33:41,416 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 16:33:48,019 - Test Lead Alam -INFO - 
+2021-10-09 16:33:48,020 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 16:33:48,021 - Test Lead Alam -INFO - 
+2021-10-09 16:33:50,479 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 16:33:55,914 - Test Lead Alam -INFO - 
+2021-10-09 16:33:55,915 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-10-09 16:33:55,915 - Test Lead Alam -INFO - 
+2021-10-09 16:42:54,258 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 16:43:00,913 - Test Lead Alam -INFO - 
+2021-10-09 16:43:00,914 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 16:43:00,915 - Test Lead Alam -INFO - 
+2021-10-09 16:43:03,748 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 16:43:08,236 - Test Lead Alam -INFO - 
+2021-10-09 16:43:08,238 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-10-09 16:43:08,239 - Test Lead Alam -INFO - 
+2021-10-09 16:46:56,474 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 16:47:20,756 - Test Lead Alam -INFO - 
+2021-10-09 16:47:20,757 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-10-09 16:47:20,757 - Test Lead Alam -INFO - 
+2021-10-09 16:48:18,369 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 16:48:23,735 - Test Lead Alam -INFO - 
+2021-10-09 16:48:23,735 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 16:48:23,735 - Test Lead Alam -INFO - 
+2021-10-09 16:48:26,587 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 16:48:28,904 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 16:48:30,997 - Test Lead Alam -INFO - 
+2021-10-09 16:48:30,998 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-10-09 16:48:30,999 - Test Lead Alam -INFO - 
+2021-10-09 16:55:49,906 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 16:55:59,272 - Test Lead Alam -INFO - 
+2021-10-09 16:55:59,275 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 16:55:59,275 - Test Lead Alam -INFO - 
+2021-10-09 16:56:02,112 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 16:56:04,220 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 16:56:06,501 - Test Lead Alam -INFO - 
+2021-10-09 16:56:06,501 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-10-09 16:56:06,502 - Test Lead Alam -INFO - 
+2021-10-09 16:57:07,728 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 16:57:14,875 - Test Lead Alam -INFO - 
+2021-10-09 16:57:14,876 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 16:57:14,877 - Test Lead Alam -INFO - 
+2021-10-09 16:57:17,755 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 16:57:19,917 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 17:02:48,104 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 17:02:57,490 - Test Lead Alam -INFO - 
+2021-10-09 17:02:57,491 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 17:02:57,492 - Test Lead Alam -INFO - 
+2021-10-09 17:03:10,370 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 17:03:13,697 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 17:05:50,383 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 17:05:57,204 - Test Lead Alam -INFO - 
+2021-10-09 17:05:57,207 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 17:05:57,208 - Test Lead Alam -INFO - 
+2021-10-09 17:06:01,615 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 17:06:03,735 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 17:06:05,030 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-09 17:06:41,428 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 17:06:49,471 - Test Lead Alam -INFO - 
+2021-10-09 17:06:49,472 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 17:06:49,473 - Test Lead Alam -INFO - 
+2021-10-09 17:06:53,279 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 17:06:56,186 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 17:06:57,750 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-09 17:45:44,478 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 17:45:51,933 - Test Lead Alam -INFO - 
+2021-10-09 17:45:51,935 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 17:45:51,935 - Test Lead Alam -INFO - 
+2021-10-09 17:45:55,499 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 17:45:58,463 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 17:46:00,178 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-09 17:59:03,334 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 17:59:10,264 - Test Lead Alam -INFO - 
+2021-10-09 17:59:10,265 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 17:59:10,266 - Test Lead Alam -INFO - 
+2021-10-09 17:59:12,463 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 17:59:14,549 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 17:59:15,876 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-09 18:34:18,913 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 18:34:26,717 - Test Lead Alam -INFO - 
+2021-10-09 18:34:26,718 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 18:34:26,719 - Test Lead Alam -INFO - 
+2021-10-09 18:34:30,336 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 18:34:33,253 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 18:34:38,775 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-09 18:35:42,371 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 18:35:49,177 - Test Lead Alam -INFO - 
+2021-10-09 18:35:49,178 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 18:35:49,179 - Test Lead Alam -INFO - 
+2021-10-09 18:35:53,952 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 18:35:56,600 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 18:35:58,210 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-09 18:54:34,978 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 18:54:40,704 - Test Lead Alam -INFO - 
+2021-10-09 18:54:40,705 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 18:54:40,706 - Test Lead Alam -INFO - 
+2021-10-09 18:54:43,627 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 18:54:45,742 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 18:54:47,406 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-09 19:14:23,294 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 19:14:30,641 - Test Lead Alam -INFO - 
+2021-10-09 19:14:30,642 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 19:14:30,642 - Test Lead Alam -INFO - 
+2021-10-09 19:14:34,478 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 19:14:36,735 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 19:14:38,651 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-09 19:15:29,685 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 19:15:39,214 - Test Lead Alam -INFO - 
+2021-10-09 19:15:39,215 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 19:15:39,215 - Test Lead Alam -INFO - 
+2021-10-09 19:15:44,522 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 19:15:48,523 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 19:15:54,186 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-09 19:17:51,289 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 19:17:58,305 - Test Lead Alam -INFO - 
+2021-10-09 19:17:58,306 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 19:17:58,306 - Test Lead Alam -INFO - 
+2021-10-09 19:18:02,060 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 19:18:04,753 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 19:18:06,363 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-09 19:19:42,892 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 19:19:49,715 - Test Lead Alam -INFO - 
+2021-10-09 19:19:49,716 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 19:19:49,717 - Test Lead Alam -INFO - 
+2021-10-09 19:19:53,600 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 19:19:55,695 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 19:19:57,121 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-09 19:21:20,244 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 19:21:30,619 - Test Lead Alam -INFO - 
+2021-10-09 19:21:30,621 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 19:21:30,621 - Test Lead Alam -INFO - 
+2021-10-09 19:21:42,783 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 19:22:25,031 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 19:22:40,743 - Test Lead Alam -INFO - 
+2021-10-09 19:22:40,744 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 19:22:40,744 - Test Lead Alam -INFO - 
+2021-10-09 19:22:44,239 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 19:22:47,227 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 19:22:48,692 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-09 19:27:45,151 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 19:27:52,176 - Test Lead Alam -INFO - 
+2021-10-09 19:27:52,178 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 19:27:52,178 - Test Lead Alam -INFO - 
+2021-10-09 19:27:56,748 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 19:27:59,945 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 19:28:01,704 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-09 19:29:29,937 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 19:29:40,618 - Test Lead Alam -INFO - 
+2021-10-09 19:29:40,618 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 19:29:40,619 - Test Lead Alam -INFO - 
+2021-10-09 19:29:44,130 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 19:29:49,507 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 19:29:52,628 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-09 19:33:27,345 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 19:33:33,445 - Test Lead Alam -INFO - 
+2021-10-09 19:33:33,445 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 19:33:33,446 - Test Lead Alam -INFO - 
+2021-10-09 19:33:36,431 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 19:33:40,104 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 19:33:43,875 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-09 19:39:19,327 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 19:39:26,016 - Test Lead Alam -INFO - 
+2021-10-09 19:39:26,017 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 19:39:26,018 - Test Lead Alam -INFO - 
+2021-10-09 19:39:28,550 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 19:39:31,139 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 19:39:33,231 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-09 19:40:58,432 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 19:41:06,118 - Test Lead Alam -INFO - 
+2021-10-09 19:41:06,118 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 19:41:06,119 - Test Lead Alam -INFO - 
+2021-10-09 19:41:08,079 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 19:41:10,617 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 19:41:15,598 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-09 20:03:20,321 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-09 20:03:26,108 - Test Lead Alam -INFO - 
+2021-10-09 20:03:26,110 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-09 20:03:26,110 - Test Lead Alam -INFO - 
+2021-10-09 20:03:28,290 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-09 20:03:30,395 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-09 20:03:31,619 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-09 21:57:09,678 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-10 07:25:36,949 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-10 07:25:42,857 - Test Lead Alam -INFO - 
+2021-10-10 07:25:42,857 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-10 07:25:42,857 - Test Lead Alam -INFO - 
+2021-10-10 07:25:44,279 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-10 07:25:46,344 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-10 07:25:54,264 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-10 07:26:13,320 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-10 07:26:17,357 - Test Lead Alam -INFO - 
+2021-10-10 07:26:17,358 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-10 07:26:17,359 - Test Lead Alam -INFO - 
+2021-10-10 07:26:19,120 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-10 07:26:21,261 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-10 07:26:22,602 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-10 07:27:33,356 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-10 07:27:37,411 - Test Lead Alam -INFO - 
+2021-10-10 07:27:37,412 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-10 07:27:37,412 - Test Lead Alam -INFO - 
+2021-10-10 07:27:39,650 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-10 07:27:41,733 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-10 07:27:42,983 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-10 07:33:00,627 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-10 07:33:04,585 - Test Lead Alam -INFO - 
+2021-10-10 07:33:04,585 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-10 07:33:04,585 - Test Lead Alam -INFO - 
+2021-10-10 07:33:06,168 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-10 07:33:08,241 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-10 07:33:09,255 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-10 07:34:12,437 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-10 07:34:16,770 - Test Lead Alam -INFO - 
+2021-10-10 07:34:16,770 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-10 07:34:16,771 - Test Lead Alam -INFO - 
+2021-10-10 07:34:18,953 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-10 07:34:21,051 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-10 07:34:22,547 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-10 07:38:13,085 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-10 07:38:17,202 - Test Lead Alam -INFO - 
+2021-10-10 07:38:17,202 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-10 07:38:17,203 - Test Lead Alam -INFO - 
+2021-10-10 07:38:18,866 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-10 07:38:20,976 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-10 07:38:22,235 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-10 08:10:10,578 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-10 08:10:14,720 - Test Lead Alam -INFO - 
+2021-10-10 08:10:14,721 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-10 08:10:14,721 - Test Lead Alam -INFO - 
+2021-10-10 08:10:16,371 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-10 08:10:18,476 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-10 08:10:19,834 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-10 08:13:46,570 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-10 08:13:50,225 - Test Lead Alam -INFO - 
+2021-10-10 08:13:50,225 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-10 08:13:50,225 - Test Lead Alam -INFO - 
+2021-10-10 08:13:51,741 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-10 08:13:53,831 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-10 08:13:54,977 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-10 08:22:55,138 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-10 08:22:59,384 - Test Lead Alam -INFO - 
+2021-10-10 08:22:59,385 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-10 08:22:59,385 - Test Lead Alam -INFO - 
+2021-10-10 08:23:01,288 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-10 08:23:03,382 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-10 08:23:04,569 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-10 08:24:43,765 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-10 08:24:47,876 - Test Lead Alam -INFO - 
+2021-10-10 08:24:47,876 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-10 08:24:47,877 - Test Lead Alam -INFO - 
+2021-10-10 08:24:49,482 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-10 08:24:51,569 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-10 08:24:52,917 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-10 08:25:17,632 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-10 08:25:21,341 - Test Lead Alam -INFO - 
+2021-10-10 08:25:21,342 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-10 08:25:21,343 - Test Lead Alam -INFO - 
+2021-10-10 08:25:23,342 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-10 08:25:25,456 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-10 08:25:26,817 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-10 08:27:08,174 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-10 08:27:12,171 - Test Lead Alam -INFO - 
+2021-10-10 08:27:12,172 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-10 08:27:12,172 - Test Lead Alam -INFO - 
+2021-10-10 08:27:13,949 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-10 08:27:16,032 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-10 08:27:17,383 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 14:57:36,038 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-13 14:57:46,478 - Test Lead Alam -INFO - 
+2021-10-13 14:57:46,478 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-13 14:57:46,479 - Test Lead Alam -INFO - 
+2021-10-13 14:57:54,267 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-13 14:58:05,176 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-13 14:58:07,450 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 18:09:42,688 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 18:09:42,688 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 18:09:42,688 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 18:16:49,507 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 18:16:49,507 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 18:16:49,507 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 18:18:01,761 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 18:18:01,761 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 18:18:01,761 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 18:18:28,924 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 18:18:28,924 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 18:18:28,924 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 18:28:46,954 - Test Lead Alam -INFO - ******** Test Execute on Chrome Browser  *********
+2021-10-13 18:28:50,756 - Test Lead Alam -INFO - ******** Test Execute on Edge Browser  *********
+2021-10-13 18:28:54,098 - Test Lead Alam -INFO - ******** Test Execute on Safari Browser  *********
+2021-10-13 19:29:34,397 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-13 19:29:39,593 - Test Lead Alam -INFO - 
+2021-10-13 19:29:39,594 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-13 19:29:39,594 - Test Lead Alam -INFO - 
+2021-10-13 19:29:41,284 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-13 19:29:43,409 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-13 19:29:50,935 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 19:42:42,389 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-13 19:42:46,720 - Test Lead Alam -INFO - 
+2021-10-13 19:42:46,721 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-13 19:42:46,721 - Test Lead Alam -INFO - 
+2021-10-13 19:42:48,472 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-13 19:42:50,569 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-13 19:42:52,915 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 19:45:32,352 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-13 19:45:36,756 - Test Lead Alam -INFO - 
+2021-10-13 19:45:36,756 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-13 19:45:36,757 - Test Lead Alam -INFO - 
+2021-10-13 19:45:38,469 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-13 19:45:40,586 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-13 19:45:41,912 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 19:47:12,852 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-13 19:47:17,572 - Test Lead Alam -INFO - 
+2021-10-13 19:47:17,573 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-13 19:47:17,573 - Test Lead Alam -INFO - 
+2021-10-13 19:47:19,579 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-13 19:47:21,696 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-13 19:47:23,333 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 19:49:07,434 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-13 19:49:11,664 - Test Lead Alam -INFO - 
+2021-10-13 19:49:11,664 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-13 19:49:11,665 - Test Lead Alam -INFO - 
+2021-10-13 19:49:13,448 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-13 19:49:15,549 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-13 19:49:17,025 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 19:50:23,071 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-13 19:50:28,421 - Test Lead Alam -INFO - 
+2021-10-13 19:50:28,421 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-13 19:50:28,422 - Test Lead Alam -INFO - 
+2021-10-13 19:50:30,151 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-13 19:50:32,246 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-13 19:50:33,811 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 19:52:18,293 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-13 19:52:22,840 - Test Lead Alam -INFO - 
+2021-10-13 19:52:22,841 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-13 19:52:22,841 - Test Lead Alam -INFO - 
+2021-10-13 19:52:25,022 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-13 19:52:27,117 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-13 19:52:28,672 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 19:53:59,774 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-13 19:54:04,749 - Test Lead Alam -INFO - 
+2021-10-13 19:54:04,749 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-13 19:54:04,750 - Test Lead Alam -INFO - 
+2021-10-13 19:54:06,935 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-13 19:54:09,038 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-13 19:54:10,444 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-13 19:55:05,116 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-13 19:55:09,864 - Test Lead Alam -INFO - 
+2021-10-13 19:55:09,865 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-13 19:55:09,865 - Test Lead Alam -INFO - 
+2021-10-13 19:55:11,706 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-13 19:55:13,796 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-13 19:55:15,217 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-14 20:04:45,759 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-14 20:04:50,319 - Test Lead Alam -INFO - 
+2021-10-14 20:04:50,321 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-14 20:04:50,322 - Test Lead Alam -INFO - 
+2021-10-14 20:04:52,351 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-14 20:04:54,444 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-14 20:04:56,455 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-14 23:14:26,826 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-14 23:15:10,561 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-14 23:15:15,583 - Test Lead Alam -INFO - 
+2021-10-14 23:15:15,584 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-14 23:15:15,584 - Test Lead Alam -INFO - 
+2021-10-14 23:15:17,295 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-14 23:15:19,365 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-14 23:15:20,375 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-14 23:16:52,843 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-14 23:16:56,622 - Test Lead Alam -INFO - 
+2021-10-14 23:16:56,624 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-14 23:16:56,624 - Test Lead Alam -INFO - 
+2021-10-14 23:16:58,223 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-14 23:17:00,343 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-14 23:17:01,575 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-14 23:17:08,692 - Test Lead Alam -INFO - 
+2021-10-14 23:17:08,692 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-10-14 23:17:08,692 - Test Lead Alam -INFO - 
+2021-10-15 19:13:03,094 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-15 19:13:06,853 - Test Lead Alam -INFO - 
+2021-10-15 19:13:06,853 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-15 19:13:06,854 - Test Lead Alam -INFO - 
+2021-10-16 15:21:55,682 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-16 15:22:02,882 - Test Lead Alam -INFO - 
+2021-10-16 15:22:02,883 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-16 15:22:02,884 - Test Lead Alam -INFO - 
+2021-10-16 15:22:05,349 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-16 15:22:07,547 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-16 15:22:09,442 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-16 15:22:23,203 - Test Lead Alam -INFO - 
+2021-10-16 15:22:23,205 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-10-16 15:22:23,205 - Test Lead Alam -INFO - 
+2021-10-16 15:30:43,004 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-16 15:30:50,601 - Test Lead Alam -INFO - 
+2021-10-16 15:30:50,602 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-16 15:30:50,603 - Test Lead Alam -INFO - 
+2021-10-16 15:30:53,826 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-16 15:30:57,155 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-16 15:30:59,287 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-16 15:31:21,068 - Test Lead Alam -INFO - 
+2021-10-16 15:31:21,070 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-10-16 15:31:21,071 - Test Lead Alam -INFO - 
+2021-10-16 15:31:56,150 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-16 15:32:20,312 - Test Lead Alam -INFO - 
+2021-10-16 15:32:20,314 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-10-16 15:32:20,314 - Test Lead Alam -INFO - 
+2021-10-16 15:33:34,565 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-16 15:33:42,109 - Test Lead Alam -INFO - 
+2021-10-16 15:33:42,110 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-16 15:33:42,110 - Test Lead Alam -INFO - 
+2021-10-16 15:33:48,198 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-16 15:33:51,269 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-16 15:33:54,088 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-16 15:34:15,516 - Test Lead Alam -INFO - 
+2021-10-16 15:34:15,519 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-10-16 15:34:15,520 - Test Lead Alam -INFO - 
+2021-10-19 23:05:52,338 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-19 23:05:58,661 - Test Lead Alam -INFO - 
+2021-10-19 23:05:58,662 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-19 23:05:58,663 - Test Lead Alam -INFO - 
+2021-10-19 23:06:00,810 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-19 23:06:02,913 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-19 23:06:04,176 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-19 23:06:14,451 - Test Lead Alam -INFO - 
+2021-10-19 23:06:14,453 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-10-19 23:06:14,454 - Test Lead Alam -INFO - 
+2021-10-20 18:46:46,210 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-20 18:46:51,967 - Test Lead Alam -INFO - 
+2021-10-20 18:46:51,968 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-20 18:46:51,968 - Test Lead Alam -INFO - 
+2021-10-20 18:46:53,896 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-20 18:46:55,967 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-20 18:46:57,770 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-20 18:47:07,597 - Test Lead Alam -INFO - 
+2021-10-20 18:47:07,597 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-10-20 18:47:07,598 - Test Lead Alam -INFO - 
+2021-10-20 18:47:48,068 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-20 18:47:52,549 - Test Lead Alam -INFO - 
+2021-10-20 18:47:52,550 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-20 18:47:52,550 - Test Lead Alam -INFO - 
+2021-10-20 18:47:54,899 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-20 18:47:56,968 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-20 18:47:58,593 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-20 18:48:05,699 - Test Lead Alam -INFO - 
+2021-10-20 18:48:05,700 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-10-20 18:48:05,700 - Test Lead Alam -INFO - 
+2021-10-23 12:53:22,215 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-23 12:53:27,262 - Test Lead Alam -INFO - 
+2021-10-23 12:53:27,263 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-23 12:53:27,263 - Test Lead Alam -INFO - 
+2021-10-23 12:53:29,039 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-23 12:53:31,124 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-23 12:53:32,348 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-23 12:53:40,476 - Test Lead Alam -INFO - 
+2021-10-23 12:53:40,476 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-10-23 12:53:40,476 - Test Lead Alam -INFO - 
+2021-10-23 20:44:39,065 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-23 20:46:57,744 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-23 21:24:16,390 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-27 13:53:26,581 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-10-27 13:53:30,797 - Test Lead Alam -INFO - 
+2021-10-27 13:53:30,798 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-10-27 13:53:30,798 - Test Lead Alam -INFO - 
+2021-10-27 13:53:32,776 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-10-27 13:53:34,875 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-10-27 13:53:43,951 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-10-27 13:53:52,644 - Test Lead Alam -INFO - 
+2021-10-27 13:53:52,647 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-10-27 13:53:52,648 - Test Lead Alam -INFO - 
+2021-10-29 22:07:46,729 - Test Lead Alam -INFO - ******** Test Execute on Chrome Browser  *********
+2021-10-29 22:07:46,729 - Test Lead Alam -INFO - ******** Test Execute on Safari Browser  *********
+2021-10-29 22:07:46,729 - Test Lead Alam -INFO - ******** Test Execute on Edge Browser  *********
+2021-10-30 16:29:32,402 - Test Lead Alam -INFO - ******** Test Execute on Chrome Browser  *********
+2021-10-30 16:29:32,402 - Test Lead Alam -INFO - ******** Test Execute on Edge Browser  *********
+2021-10-30 16:29:32,402 - Test Lead Alam -INFO - ******** Test Execute on Safari Browser  *********
+2021-11-02 22:58:16,277 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-11-02 22:58:23,371 - Test Lead Alam -INFO - 
+2021-11-02 22:58:23,372 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-11-02 22:58:23,372 - Test Lead Alam -INFO - 
+2021-11-02 22:58:26,421 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-11-02 22:58:28,522 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-11-02 22:58:32,752 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-11-02 22:58:53,493 - Test Lead Alam -INFO - 
+2021-11-02 22:58:53,494 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-11-02 22:58:53,495 - Test Lead Alam -INFO - 
+2021-11-03 18:52:46,013 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-11-03 18:52:51,516 - Test Lead Alam -INFO - 
+2021-11-03 18:52:51,517 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-11-03 18:52:51,517 - Test Lead Alam -INFO - 
+2021-11-03 18:52:53,686 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-11-03 18:52:56,353 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-11-03 18:52:57,362 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-11-03 18:53:15,564 - Test Lead Alam -INFO - 
+2021-11-03 18:53:15,564 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-11-03 18:53:15,565 - Test Lead Alam -INFO - 
+2021-11-10 20:02:15,717 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-11-10 20:02:20,024 - Test Lead Alam -INFO - 
+2021-11-10 20:02:20,024 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-11-10 20:02:20,025 - Test Lead Alam -INFO - 
+2021-11-10 20:02:22,302 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-11-10 20:02:24,606 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2021-11-10 20:02:25,996 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2021-11-10 20:02:32,214 - Test Lead Alam -INFO - 
+2021-11-10 20:02:32,216 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-11-10 20:02:32,217 - Test Lead Alam -INFO - 
+2021-12-10 21:36:51,401 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2021-12-10 21:36:58,264 - Test Lead Alam -INFO - 
+2021-12-10 21:36:58,264 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2021-12-10 21:36:58,265 - Test Lead Alam -INFO - 
+2021-12-10 21:37:00,319 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2021-12-10 21:37:04,724 - Test Lead Alam -INFO - 
+2021-12-10 21:37:04,725 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2021-12-10 21:37:04,725 - Test Lead Alam -INFO - 
+2022-01-04 12:04:44,208 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-01-04 12:04:46,272 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 96.0.4664.45 (resolved driver for Chrome 96)
+2022-01-04 12:04:46,336 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/96.0.4664.45/chromedriver
+2022-01-04 12:04:50,919 - Test Lead Alam -INFO - 
+2022-01-04 12:04:50,919 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-01-04 12:04:50,919 - Test Lead Alam -INFO - 
+2022-01-04 12:05:21,078 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-01-04 12:05:21,427 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 96.0.4664.45 (resolved driver for Chrome 96)
+2022-01-04 12:05:21,444 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/96.0.4664.45/chromedriver
+2022-01-04 12:05:25,160 - Test Lead Alam -INFO - 
+2022-01-04 12:05:25,160 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-01-04 12:05:25,161 - Test Lead Alam -INFO - 
+2022-01-04 12:05:26,684 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-01-04 12:05:29,205 - Test Lead Alam -INFO - 
+2022-01-04 12:05:29,206 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-01-04 12:05:29,206 - Test Lead Alam -INFO - 
+2022-01-04 12:08:17,840 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-01-04 12:08:18,231 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 96.0.4664.45 (resolved driver for Chrome 96)
+2022-01-04 12:08:18,247 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/96.0.4664.45/chromedriver
+2022-01-04 12:08:21,822 - Test Lead Alam -INFO - 
+2022-01-04 12:08:21,822 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-01-04 12:08:21,822 - Test Lead Alam -INFO - 
+2022-01-04 12:08:23,902 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-01-04 12:08:26,517 - Test Lead Alam -INFO - 
+2022-01-04 12:08:26,517 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-01-04 12:08:26,517 - Test Lead Alam -INFO - 
+2022-01-04 16:04:55,184 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-01-04 16:04:57,037 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 96.0.4664.45 (resolved driver for Chrome 96)
+2022-01-04 16:04:57,119 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/96.0.4664.45/chromedriver
+2022-01-04 16:05:05,684 - Test Lead Alam -INFO - 
+2022-01-04 16:05:05,685 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-01-04 16:05:05,686 - Test Lead Alam -INFO - 
+2022-01-04 16:05:09,841 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-01-04 16:05:12,000 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2022-01-04 16:05:15,906 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2022-01-04 16:05:56,157 - Test Lead Alam -INFO - 
+2022-01-04 16:05:56,158 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-01-04 16:05:56,159 - Test Lead Alam -INFO - 
+2022-01-04 16:07:51,823 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-01-04 16:07:53,840 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 96.0.4664.45 (resolved driver for Chrome 96)
+2022-01-04 16:07:53,888 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/96.0.4664.45/chromedriver
+2022-01-04 16:08:03,322 - Test Lead Alam -INFO - 
+2022-01-04 16:08:03,323 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-01-04 16:08:03,323 - Test Lead Alam -INFO - 
+2022-01-04 16:08:06,819 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-01-04 16:08:09,689 - Test Lead Alam -INFO - 
+2022-01-04 16:08:09,690 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-01-04 16:08:09,690 - Test Lead Alam -INFO - 
+2022-01-04 16:11:16,667 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-01-04 16:11:18,618 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 96.0.4664.45 (resolved driver for Chrome 96)
+2022-01-04 16:11:18,666 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/96.0.4664.45/chromedriver
+2022-01-04 16:11:29,128 - Test Lead Alam -INFO - 
+2022-01-04 16:11:29,129 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-01-04 16:11:29,130 - Test Lead Alam -INFO - 
+2022-01-04 16:11:33,269 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-01-04 16:11:35,698 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2022-01-04 16:11:37,508 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2022-01-04 16:12:13,595 - Test Lead Alam -INFO - 
+2022-01-04 16:12:13,596 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-01-04 16:12:13,596 - Test Lead Alam -INFO - 
+2022-03-12 11:25:25,150 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 11:25:27,399 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 11:25:27,513 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2022-03-12 11:25:28,052 - io.github.bonigarcia.wdm.online.Downloader -INFO - Downloading https://chromedriver.storage.googleapis.com/99.0.4844.51/chromedriver_mac64.zip
+2022-03-12 11:25:28,756 - io.github.bonigarcia.wdm.online.Downloader -INFO - Extracting driver from compressed file chromedriver_mac64.zip
+2022-03-12 11:25:29,232 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 11:25:36,025 - Test Lead Alam -INFO - 
+2022-03-12 11:25:36,027 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 11:25:36,028 - Test Lead Alam -INFO - 
+2022-03-12 11:25:40,818 - Test Lead Alam -INFO - 
+2022-03-12 11:25:40,818 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-03-12 11:25:40,819 - Test Lead Alam -INFO - 
+2022-03-12 11:28:43,086 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 11:28:43,914 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 11:28:43,946 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 11:28:49,288 - Test Lead Alam -INFO - 
+2022-03-12 11:28:49,289 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 11:28:49,290 - Test Lead Alam -INFO - 
+2022-03-12 11:28:52,777 - Test Lead Alam -INFO - 
+2022-03-12 11:28:52,778 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-03-12 11:28:52,778 - Test Lead Alam -INFO - 
+2022-03-12 11:31:53,979 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 11:31:54,503 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 11:31:54,534 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 11:31:59,292 - Test Lead Alam -INFO - 
+2022-03-12 11:31:59,293 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 11:31:59,293 - Test Lead Alam -INFO - 
+2022-03-12 11:32:02,682 - Test Lead Alam -INFO - 
+2022-03-12 11:32:02,682 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-03-12 11:32:02,682 - Test Lead Alam -INFO - 
+2022-03-12 11:34:00,286 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 11:34:00,637 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 11:34:00,653 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 11:34:04,662 - Test Lead Alam -INFO - 
+2022-03-12 11:34:04,662 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 11:34:04,663 - Test Lead Alam -INFO - 
+2022-03-12 11:34:05,431 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-03-12 11:34:07,557 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2022-03-12 11:34:08,824 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2022-03-12 11:34:46,961 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 11:34:47,308 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 11:34:47,324 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 11:34:51,779 - Test Lead Alam -INFO - 
+2022-03-12 11:34:51,779 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 11:34:51,780 - Test Lead Alam -INFO - 
+2022-03-12 11:34:52,323 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-03-12 11:34:54,426 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2022-03-12 11:34:55,779 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2022-03-12 11:35:30,295 - Test Lead Alam -INFO - 
+2022-03-12 11:35:30,297 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-03-12 11:35:30,297 - Test Lead Alam -INFO - 
+2022-03-12 11:38:02,242 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 11:38:02,891 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 11:38:02,923 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 11:38:07,810 - Test Lead Alam -INFO - 
+2022-03-12 11:38:07,811 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 11:38:07,811 - Test Lead Alam -INFO - 
+2022-03-12 11:38:08,460 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-03-12 11:38:10,580 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2022-03-12 11:38:11,998 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2022-03-12 11:38:22,212 - Test Lead Alam -INFO - 
+2022-03-12 11:38:22,213 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-03-12 11:38:22,214 - Test Lead Alam -INFO - 
+2022-03-12 12:54:45,721 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 12:54:46,732 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 12:54:46,787 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 12:54:51,389 - Test Lead Alam -INFO - 
+2022-03-12 12:54:51,392 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 12:54:51,392 - Test Lead Alam -INFO - 
+2022-03-12 12:54:54,101 - Test Lead Alam -INFO - 
+2022-03-12 12:54:54,101 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-03-12 12:54:54,102 - Test Lead Alam -INFO - 
+2022-03-12 12:59:14,324 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 12:59:14,641 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 12:59:14,655 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 12:59:18,863 - Test Lead Alam -INFO - 
+2022-03-12 12:59:18,864 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 12:59:18,864 - Test Lead Alam -INFO - 
+2022-03-12 12:59:21,038 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-03-12 12:59:23,128 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2022-03-12 12:59:30,705 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2022-03-12 12:59:38,954 - Test Lead Alam -INFO - 
+2022-03-12 12:59:38,955 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-03-12 12:59:38,955 - Test Lead Alam -INFO - 
+2022-03-12 13:01:56,478 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 13:01:56,786 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 13:01:56,802 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 13:02:00,488 - Test Lead Alam -INFO - 
+2022-03-12 13:02:00,489 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 13:02:00,489 - Test Lead Alam -INFO - 
+2022-03-12 13:02:04,822 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-03-12 13:02:06,937 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2022-03-12 13:02:09,401 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2022-03-12 13:02:16,602 - Test Lead Alam -INFO - 
+2022-03-12 13:02:16,602 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-03-12 13:02:16,603 - Test Lead Alam -INFO - 
+2022-03-12 13:03:44,145 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 13:03:44,477 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 13:03:44,492 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 13:03:48,376 - Test Lead Alam -INFO - 
+2022-03-12 13:03:48,376 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 13:03:48,377 - Test Lead Alam -INFO - 
+2022-03-12 13:03:50,444 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-03-12 13:03:52,530 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2022-03-12 13:03:55,327 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2022-03-12 13:04:01,532 - Test Lead Alam -INFO - 
+2022-03-12 13:04:01,532 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-03-12 13:04:01,533 - Test Lead Alam -INFO - 
+2022-03-12 13:07:01,278 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 13:07:01,611 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 13:07:01,626 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 13:07:06,850 - Test Lead Alam -INFO - 
+2022-03-12 13:07:06,851 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 13:07:06,851 - Test Lead Alam -INFO - 
+2022-03-12 13:07:09,915 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-03-12 13:07:12,060 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2022-03-12 13:07:15,193 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2022-03-12 13:07:22,185 - Test Lead Alam -INFO - 
+2022-03-12 13:07:22,186 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-03-12 13:07:22,186 - Test Lead Alam -INFO - 
+2022-03-12 13:09:37,939 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 13:09:38,366 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 13:09:38,390 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 13:09:43,656 - Test Lead Alam -INFO - 
+2022-03-12 13:09:43,657 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 13:09:43,658 - Test Lead Alam -INFO - 
+2022-03-12 13:09:45,790 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-03-12 13:09:47,866 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2022-03-12 13:09:50,218 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2022-03-12 13:09:59,097 - Test Lead Alam -INFO - 
+2022-03-12 13:09:59,098 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-03-12 13:09:59,098 - Test Lead Alam -INFO - 
+2022-03-12 13:27:32,162 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 13:27:32,644 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 13:27:32,673 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 13:27:37,055 - Test Lead Alam -INFO - 
+2022-03-12 13:27:37,055 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 13:27:37,056 - Test Lead Alam -INFO - 
+2022-03-12 13:27:40,411 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-03-12 13:27:42,483 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2022-03-12 13:27:43,759 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2022-03-12 13:27:53,736 - Test Lead Alam -INFO - 
+2022-03-12 13:27:53,737 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-03-12 13:27:53,738 - Test Lead Alam -INFO - 
+2022-03-12 13:28:35,179 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 13:28:35,492 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 13:28:35,508 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 13:28:40,120 - Test Lead Alam -INFO - 
+2022-03-12 13:28:40,121 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 13:28:40,121 - Test Lead Alam -INFO - 
+2022-03-12 13:28:42,432 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-03-12 13:28:44,511 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2022-03-12 13:28:45,712 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2022-03-12 13:28:53,919 - Test Lead Alam -INFO - 
+2022-03-12 13:28:53,921 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-03-12 13:28:53,921 - Test Lead Alam -INFO - 
+2022-03-12 13:29:28,834 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 13:29:29,146 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 13:29:29,161 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 13:29:32,909 - Test Lead Alam -INFO - 
+2022-03-12 13:29:32,909 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 13:29:32,909 - Test Lead Alam -INFO - 
+2022-03-12 13:29:37,865 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-03-12 13:29:39,942 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2022-03-12 13:29:40,998 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2022-03-12 13:30:08,081 - Test Lead Alam -INFO - 
+2022-03-12 13:30:08,084 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-03-12 13:30:08,085 - Test Lead Alam -INFO - 
+2022-03-12 13:32:50,425 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 13:32:50,767 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 13:32:50,781 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 13:32:55,586 - Test Lead Alam -INFO - 
+2022-03-12 13:32:55,589 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 13:32:55,589 - Test Lead Alam -INFO - 
+2022-03-12 13:32:58,039 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-03-12 13:33:00,117 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2022-03-12 13:33:02,914 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2022-03-12 13:33:32,540 - Test Lead Alam -INFO - 
+2022-03-12 13:33:32,541 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-03-12 13:33:32,542 - Test Lead Alam -INFO - 
+2022-03-12 13:35:54,294 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 13:35:54,639 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 13:35:54,655 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 13:35:59,580 - Test Lead Alam -INFO - 
+2022-03-12 13:35:59,580 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 13:35:59,580 - Test Lead Alam -INFO - 
+2022-03-12 13:36:02,125 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-03-12 13:36:04,211 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2022-03-12 13:36:17,496 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2022-03-12 13:36:40,531 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 13:36:40,934 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 13:36:40,951 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 13:36:45,061 - Test Lead Alam -INFO - 
+2022-03-12 13:36:45,062 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 13:36:45,062 - Test Lead Alam -INFO - 
+2022-03-12 13:36:47,397 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-03-12 13:36:49,469 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2022-03-12 13:36:52,934 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2022-03-12 13:37:01,839 - Test Lead Alam -INFO - 
+2022-03-12 13:37:01,841 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-03-12 13:37:01,841 - Test Lead Alam -INFO - 
+2022-03-12 13:37:58,917 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 13:37:59,244 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 13:37:59,262 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 13:38:04,427 - Test Lead Alam -INFO - 
+2022-03-12 13:38:04,428 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 13:38:04,428 - Test Lead Alam -INFO - 
+2022-03-12 13:38:07,557 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-03-12 13:38:09,670 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2022-03-12 13:38:21,814 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2022-03-12 13:38:32,669 - Test Lead Alam -INFO - 
+2022-03-12 13:38:32,672 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-03-12 13:38:32,672 - Test Lead Alam -INFO - 
+2022-03-12 13:39:22,085 - Test Lead Alam -INFO - ******** I am a chrome browser*********
+2022-03-12 13:39:22,448 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 13:39:22,465 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mohammedalam/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 13:39:26,644 - Test Lead Alam -INFO - 
+2022-03-12 13:39:26,644 - Test Lead Alam -INFO - ...........START AUTOMATION.............
+2022-03-12 13:39:26,645 - Test Lead Alam -INFO - 
+2022-03-12 13:39:29,160 - Test Lead Alam -INFO - ******** User able to verify successfully login & verify the homepage title *********
+2022-03-12 13:39:31,261 - Test Lead Alam -INFO - ******** Users can hover over the page on the For Sale module and click on the UK Property For Sale *********
+2022-03-12 13:39:33,947 - Test Lead Alam -INFO - ******** Users is able to enter location *********
+2022-03-12 13:39:49,073 - Test Lead Alam -INFO - 
+2022-03-12 13:39:49,075 - Test Lead Alam -INFO - ...........END AUTOMATION.............
+2022-03-12 13:39:49,076 - Test Lead Alam -INFO - 

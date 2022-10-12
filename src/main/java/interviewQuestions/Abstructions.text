@@ -1,0 +1,27 @@
+Interface Vs. Abstract Class
+An abstract class permits you to make functionality that subclasses can implement or override whereas an interface only permits you to state functionality but not to implement it. A class can extend only one abstract class while a class can implement multiple interfaces.
+
+
+Parameters	                             Interface	                                       Abstract class
+
+  Speed	                                       Slow	                                            Fast
+
+Multiple Inheritances	             Implement several Interfaces	                           Only one abstract class
+
+Structure	                          Abstract methods	                                  Abstract & concrete methods
+
+When to use	                         Future enhancement	                             To avoid independence
+
+
+Inheritance/ Implementation	A Class can implement multiple interfaces	            The class can inherit only one Abstract Class
+
+
+Default Implementation	         While adding new stuff to the interface,              In case of Abstract Class, you can take advantage
+                                 it is a nightmare to find all the implementors                of the default implementation.
+                                      and implement newly defined stuff.
+
+
+Access Modifiers	 The interface does not have access modifiers. Everything defined inside the interface is assumed public modifier.	Abstract Class can have an access modifier.
+
+
+

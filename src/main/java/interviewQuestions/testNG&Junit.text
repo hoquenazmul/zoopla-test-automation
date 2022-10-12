@@ -1,0 +1,28 @@
+What is the difference between Page Object Model (POM) and Page Factory:
+Page Object is a class that represents a web page and hold the functionality and members.
+Page Factory is a way to initialize the web elements you want to interact with within the page object when you create an instance of it.
+
+Advantages of Page Object Model Framework:
+Code reusability – We could achieve code reusability by writing the code once and use it in different tests.
+Code maintainability – There is a clean separation between test code and page specific code such as locators and layout which becomes very easy to maintain code. Code changes only on Page Object Classes when a UI change occurs. It enhances test maintenance and reduces code duplication.
+Object Repository – Each page will be defined as a java class. All the fields in the page will be defined in an interface as members. The class will then implement the interface.
+Readability – Improves readability due to clean separation between test code and page specific code
+Page Object Model (POM) and Page Factory has following differences:
+
+A Page Object Model is a test design pattern which says organize page objects as per pages in such a way that scripts and page objects can be differentiated easily. A Page Factory is one way of implementing PageObject Model which is inbuilt in selenium.
+In POM, you define locators using ‘By’ while in Page Factory, you use FindBy annotation to define page objects.
+Page Object Model is a design approach while PageFactory is a class which provides implementation of Page Object Model design approach.
+POM is not optimal as it does not provide lazy initialization while Page Factory provides lazy initialization.
+Plain POM will not help in StaleElementReferecneException while Page Factory takes care of this exception by relocating web element every time whenever it is used.
+In plain page object model, you need to initialize every page object individually otherwise you will encounter NullPointerException while In PageFactory all page objects are initialized (Lazily) by using initElements() method.
+
+
+
+No.	POM	                                                    PageFactory
+1.	It is an approach for Design patterns.	         It is a class that is provided by        Selenium Webdriver.
+2.	It is not an optimal method to process tasks.	It is an optimal method to process tasks.
+3.	It helps in separating page objects and scripts.	It is a technique to implement POM.
+4.	‘By’ annotation is used to define page objects.	It uses annotation ‘FindBy’ to describe page objects.
+5.	It does not handle exceptions efficiently.     	It efficiently handles the exceptions.
+6.	It requires the initialization of every object.	It does not require the initialization of every object.
+7.	There is cache storage for performing tasks.	There is no need for cache storage.
